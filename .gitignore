@@ -1,5 +1,2 @@
 # Ignore data files
-data/
-*.xlsx
-*.csv
 *.png 
